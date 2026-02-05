@@ -26,4 +26,4 @@
 - netstat
 
 ---
-*Progress will be updated daily*
+*Progress will be updated weekly*
