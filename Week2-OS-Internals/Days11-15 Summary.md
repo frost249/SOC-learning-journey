@@ -82,7 +82,6 @@ netstat -tuln | grep ESTABLISHED | \
 - Basic host and service scanning
 - Understanding open vs closed ports
 - Observing scan behavior and scan limitations
-- Interpreting Nmap output as a SOC analyst
 
 ### Commands Executed
 ```bash
@@ -107,7 +106,6 @@ nmap 127.0.0.1
 - Observed filtered ports and timeouts
 - Encountered retransmission cap warnings:
   - Learned this can occur due to rate limiting, firewalls, or IDS/IPS
-- Understood how Nmap behavior may appear in logs from a defender’s perspective
 
 ---
 
