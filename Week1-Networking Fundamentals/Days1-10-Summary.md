@@ -120,4 +120,4 @@ nslookup google.com       # DNS lookup
 - Ask for help when stuck
 
 **Date Documented:** January 31, 2026  
-**Next Update:** Daily commits starting Day 11
+**Next Update:** Weekly commits starting Day 11
