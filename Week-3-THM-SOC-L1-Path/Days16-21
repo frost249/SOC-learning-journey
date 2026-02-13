@@ -1,0 +1,68 @@
+# Week 3 Progress — SOC Level 1 Path
+
+**Period:** Feb 6 – Feb 12, 2026  
+**Hours Studied:** ~15 hrs  
+**Status:** In Progress
+
+---
+
+## Completed Learning
+
+### SOC Team Internals
+- SOC L1 Alert Triage
+- SOC L1 Alert Reporting
+- SOC Workbooks and Lookups
+- SOC Metrics and Objectives
+- Introduction to Phishing
+
+### Core SOC Solutions
+- Introduction to EDR
+- Introduction to SIEM
+- Splunk Basics
+- Elastic Stack Basics
+- Introduction to SOAR
+
+---
+
+## Alert Investigations (TryHackMe SOC Simulator)
+
+### Alert 8815 – Phishing Email
+- Classified: True Positive
+- Actions: URL analysis, sender reputation check, IOC detection
+
+### Alert 8816 – Firewall Blocked Malicious URL
+- Classified: True Positive
+- Actions: Firewall log review, URL reputation validation
+
+### Alert 8817 – Phishing Email
+- Classified: True Positive
+- Actions: Rapid IOC verification
+
+### Alert 8814 – Suspicious Email
+- Classified: False Positive
+- Actions: Sender validation, URL safety confirmation
+
+---
+
+## Skills Gained
+- SOC alert triage workflow
+- Phishing investigation methodology
+- IOC identification 
+- SIEM fundamentals (Splunk & Elastic)
+- Threat intelligence usage (VirusTotal, AnyRun)
+
+---
+
+## Tools Used
+- Splunk
+- Elastic Stack
+- VirusTotal
+- AnyRun
+- TryHackMe SOC Simulator
+
+---
+
+## Next Focus
+- Cyber Defence Frameworks (MITRE ATT&CK, Cyber Kill Chain)
+- Advanced phishing scenarios
+- SIEM query practice
